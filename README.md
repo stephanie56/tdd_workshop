@@ -33,7 +33,7 @@ You are ready to start the workshop!
 * Here are the steps of the workshop:
     * Run guard (Guard should be running at all times during the exercise)
         * See above for instructions.
-    * Open the bottles.rb solution:
+    * Open the bottles.rb file:
         * Choose two chunks of the code that are the most similar.
         * Refactor the code to remove the repetition.
             * If your changes cause tests to fail, undo the changes until the tests are passing again and retry.
