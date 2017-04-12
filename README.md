@@ -4,7 +4,7 @@
 # Test Driven Development Workshop
 
 
-#Setup The Workshop
+# Setup The Workshop
 
 Install Homebrew by pasting the following command into your terminal
 * `ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
@@ -27,10 +27,10 @@ Once guard is running:
 
 You are ready to start the workshop!
 
-#Workshop Details
+# Workshop Details
 
-The goal of this exercise is to take a working solution and refactor it until there is as little repetition as possible.
-Here are the steps of the workshop:
+* The goal of this exercise is to take a working solution and refactor it until there is as little repetition as possible.
+* Here are the steps of the workshop:
     * Run guard (Guard should be running at all times during the exercise)
         * See above for instructions.
     * Open the bottles.rb solution:
