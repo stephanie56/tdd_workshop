@@ -16,12 +16,12 @@ Install Git
 Clone the tdd_workshop project into your desired project folder
 * `git clone git@github.com:teresamychu/tdd_workshop.git`
 
-Run the following commands in your terminal:
-  Navigate to the /notes folder:
+* Run the following commands in your terminal:
+  * Navigate to the /notes folder:
     * `bundle install`
     * `bundle exec guard`
 
-Once guard is running:
+* Once guard is running:
     * You can press Enter to run all tests AND
     * Guard will run all tests whenever you make changes in the project.
 
