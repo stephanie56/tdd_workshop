@@ -1,7 +1,7 @@
 (This workshop is based on Sandi Metz 99 Bottles of OOP book)
 * https://www.sandimetz.com/99bottles
 
-# tdd_workshop
+# Test Driven Development Workshop
 
 
 #Setup The Workshop
