@@ -28,7 +28,7 @@ This workshop is based on Sandi Metz 99 Bottles of OOP book
 
     * Once guard is running:
         * You can press Enter to run all tests AND
-        * Guard will run all tests whenever you make changes in the project.
+        * Guard should run all tests whenever you save changes in the project (sometimes it doesnt work) .
 
 You are ready to start the workshop!
 
@@ -40,7 +40,7 @@ You are ready to start the workshop!
         * See above for instructions.
     * Open the `bottles.rb` file:
         * Choose two chunks of the code that are the most similar.
-        * Refactor the code to remove the repetition.
+        * Refactor the code to remove the smallest difference between these two chunks.
             * If your changes cause tests to fail, undo the changes until the tests are passing again and retry.
         * Repeat with the next part of the code that is the most similar.
         * Continue until there is the least amount of repetition in your solution.
